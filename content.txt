@@ -1,7 +1,12 @@
 1.Class and Obj (example)
 2.Class has data/attribute and func/methods
-Adv of OOPs:
+3.Adv of OOPs:
   >u can create ur own datatype
   >code reusability
   >debugging
   >easy to colab
+4.End to end project(chatbook class)
+  >Encapsulation
+  >getter and setter 
+  >static method
+  
