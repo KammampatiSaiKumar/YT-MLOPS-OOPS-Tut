@@ -16,4 +16,9 @@
   >getter and setter 
   >static method
 
-  >Inheritence
+6.Inheritence
+  >why ? code reuseability, parent has no access to child class
+  >What gets inherited? Constructor, Non private attributes(Encapsulated attributes not inherit), Non private methods(Encapsulated methods not in)
+  >constructor overloading and method overloading
+  >super keyword (can be used only inside class, can not acess variables/attributes ,used only inside child class)
+  >Types of inheritence - 1.Single Inhereitence 2.Multilevel 3. Hierarchical 4.Multiple <Diamond Problem> 5. Hybrid
