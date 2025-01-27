@@ -6,7 +6,14 @@
   >debugging
   >easy to colab
 4.End to end project(chatbook class)
+  >function vs method -->function without class example len([1,2,3]) ;; method class object creating and accessing
+  >magic or dunder method
+  > we can create attribute outside of a class as well
+  >self
+
+
   >Encapsulation
   >getter and setter 
   >static method
-  
+
+  >Inheritence
